@@ -15,7 +15,7 @@ ENV/
 .idea/
 .DS_Store
 
-# GIS & Geospatial Heavy Data (Do not push large rasters/vectors)
+# GIS & geospatial heavy data (do not push large rasters/vectors)
 *.tif
 *.tiff
 *.nc
@@ -26,10 +26,9 @@ ENV/
 *.prj
 *.shx
 
-# Data & Output exclusions
-data/raw/
-data/processed/*.csv
-!data/processed/summary_results.csv
+# Raw data: ignore everything except the small G-REALM text file used for dH
+data/raw/*
+!data/raw/lake000270_10d_2.txt
 outputs/large_exports/
 
 # Jupyter Notebook Checkpoints

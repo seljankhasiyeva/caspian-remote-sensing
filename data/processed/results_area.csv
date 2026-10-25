@@ -1,0 +1,4 @@
+interval,delta_h_cm,exposed_area_km2,km2_per_cm,source
+2016-2020,24.25,47.396,1.954,GEE run of scripts/gee_waterline_extraction.js (22 Oct 2026)
+2020-2024,93.00,201.367,2.165,GEE run of scripts/gee_waterline_extraction.js (22 Oct 2026)
+2016-2024,117.25,247.532,2.111,GEE run of scripts/gee_waterline_extraction.js (22 Oct 2026)

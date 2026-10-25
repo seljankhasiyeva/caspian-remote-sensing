@@ -1,0 +1,4 @@
+predictor,n_bands,bias_m,MAE_m,RMSE_m,R2_one_to_one,pearson_r
+LOCAL (band-specific k1 from 2016-2020),22,-404,2141,3475,0.00,0.58
+UNIFORM (median k1 = 26.1 m/cm),22,-1687,2740,3858,-0.24,undefined (constant prediction)
+ETOPO1 ROI-mean slope (22.9 m/cm),22,-1982,2822,3996,-0.33,undefined (constant prediction)

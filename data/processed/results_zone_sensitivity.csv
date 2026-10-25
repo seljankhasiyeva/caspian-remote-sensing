@@ -1,0 +1,5 @@
+zone_definition,exposed_area_km2_2016_2024,km2_per_cm,relative_to_current_zone_pct
+current zone,247.53,2.111,0.0
+zone + 3 km buffer,256.40,2.187,3.6
+zone + south strip (38.60-38.80 N),248.60,2.120,0.4
+full ROI rectangle (48.75-49.40 E; 38.80-39.30 N),262.17,2.236,5.9
